@@ -1,0 +1,38 @@
+SPAARKLE STORIES BY SIMRAN — IMAGE ASSET MAP
+============================================
+
+All 26 images supplied in the original ZIP are included in this assets folder.
+The filenames were shortened to deployment-safe names so they work reliably on GitHub Pages, Hostinger and other servers.
+
+IMAGE 01  | image-01.jfif | Original: 3166662233609545.jfif | Used: Hero main bridal portrait
+IMAGE 02  | image-02.jfif | Original: Peach & Champagne Glitter Glam _ Glowing Bridal Inspo ✨.jfif | Used: Hero floating card + gallery
+IMAGE 03  | image-03.jfif | Original: Elegant Women Hairstyle Ideas for Every Occasion.jfif | Used: Gallery — romantic waves
+IMAGE 04  | image-04.jfif | Original: Pakistani Celebrity.jfif | Used: Gallery — statement bridal beauty
+IMAGE 05  | image-05.jfif | Original: بهترین و بدترین مدل آرایش عروس ایرانی (همراه با تصویر).jfif | Used: Gallery — soft bridal finish
+IMAGE 06  | image-06.jfif | Original: Bridal Beauty by Aria 💍 _ Elegant & Timeless Makeup Looks.jfif | Used: Hero floating card + gallery
+IMAGE 07  | image-07.jfif | Original: 580471839518432807.jfif | Used: Gallery — evening bridal look
+IMAGE 08  | image-08.jfif | Original: Party Makeup Look _ Glamorous Rose Gold Evening Makeup.jfif | Used: Gallery — rose-gold glam
+IMAGE 09  | image-09.jfif | Original: 283445370332115198.jfif | Used: Gallery — beauty details
+IMAGE 10  | image-10.jfif | Original: Asian Bridal Wedding Hair & Makeup Service _ London _ UK.jfif | Used: Gallery — bridal artistry
+IMAGE 11  | image-11.jfif | Original: Elegant Fountain Braid Bridal Hairstyle for Wedding Look.jfif | Used: Gallery — fountain braid
+IMAGE 12  | image-12.jfif | Original: Elegant Half Up Bridal Curls Hairstyle with Royal Gold Hair Accessory _ Indian Wedding Hair Inspirat.jfif | Used: Gallery — half-up curls
+IMAGE 13  | image-13.jfif | Original: Elegant Reception Hairstyle ✨ _ Half Up Half Down Bridal Hair.jfif | Used: Gallery — reception hair
+IMAGE 14  | image-14.jfif | Original: 20 Bridal Mehndi Hairstyles for Stunning Wedding Looks.jfif | Used: Gallery — mehndi hairstyle
+IMAGE 15  | image-15.jfif | Original: 15 Traditional Marriage Hairstyle Ideas for Brides.jfif | Used: Gallery — traditional hair artistry
+IMAGE 16  | image-16.jfif | Original: Stunning Bridal Poses 📸 Capture the Best Wedding Shots!.jfif | Used: Gallery — bridal portrait
+IMAGE 17  | image-17.jfif | Original: 20 Messy Updo Wedding Hairstyles for Romantic___.jfif | Used: Gallery — romantic messy updo
+IMAGE 18  | image-18.jfif | Original: Elegant Bridal Low Ponytail Hairstyle with Butterfly Hair Pins ✨🤍.jfif | Used: Gallery — low ponytail
+IMAGE 19  | image-19.jfif | Original: Soft Romantic Updo Hairstyle with Pearl Hair Accessories ✨.jfif | Used: Gallery — pearl updo
+IMAGE 20  | image-20.jfif | Original: Jasmine Beauty Care _ Look 1 from our KOCHI….jfif | Used: Gallery — classic bridal beauty
+IMAGE 21  | image-21.jfif | Original: Elegant Glamour.jfif | Used: Gallery — elegant glamour
+IMAGE 22  | image-22.jfif | Original: Bride.jfif | Used: Experience section portrait
+IMAGE 23  | image-23.jfif | Original: 18436679719192278.jfif | Used: Gallery — luminous bridal look
+IMAGE 24  | image-24.jfif | Original: Bridal Excellence – Radiant, Refined, and Ready to Say _I Do_.jfif | Used: Signature feature section
+IMAGE 25  | image-25.jfif | Original: Stunning Bridal Poses – Capture Every Magical Moment.jfif | Used: Gallery — golden bridal portrait
+IMAGE 26  | image-26.jfif | Original: Bride portraits.jfif | Used: Gallery — bride portrait
+
+FOLDER RULE
+-----------
+The website intentionally has only one asset folder: /assets/
+Place all image files and this image-map.txt file inside /assets/.
+Do not create additional image folders.
